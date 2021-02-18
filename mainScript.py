@@ -1,9 +1,7 @@
 """
 =============================================================================
-INTRODUCTION TO PROGRAMMING - PYTHON: EXAM PROJECT.
 Author:
     Kristian Sørensen
-    s154443
 =============================================================================
     This is an interactive program that gives the user the options of analysing electricity consumption in a househould by different means.
     The household is diveded into four zones. Each zone represent different hoursehold articles.
